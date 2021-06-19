@@ -1,2 +1,1 @@
-# horiseon
-Digital Media Marketing Company
+# Code Refactor Starter Code
